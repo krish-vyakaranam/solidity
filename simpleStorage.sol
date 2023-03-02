@@ -1,4 +1,4 @@
-/Tell the Solidity compiler what version to use
+//Tell the Solidity compiler what version to use
 pragma solidity ^0.4.8;
 
 //Declares a new contract
